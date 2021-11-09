@@ -1,0 +1,204 @@
+100 transports:
+1: Train: speed = 10204, distance = 21904.0066293978, cars = 44, time = 2.146609822559565
+2: Train: speed = 10689, distance = 5547.269877307081, cars = 16, time = 0.5189699576487118
+3: Ship: speed = 5438, distance = 3284.430455101771, displacement = 794, type = TANKER, time = 0.6039776489705353
+4: Train: speed = 16687, distance = 9978.506084615949, cars = 4, time = 0.5979808284662281
+5: Ship: speed = 13503, distance = 12506.69860357039, displacement = 854, type = TUGBOAT, time = 0.9262162929401163
+6: Airplane: speed = 24153, distance = 42212.5123827963, range = 12046, capacity = 2101, time = 1.7477130121639675
+7: Airplane: speed = 2628, distance = 36734.69564737096, range = 1730, capacity = 8264, time = 13.978194690780425
+8: Train: speed = 1877, distance = 18594.879231498602, cars = 28, time = 9.906701774906022
+9: Airplane: speed = 5837, distance = 1681.5468338686824, range = 27222, capacity = 6336, time = 0.2880840900922875
+10: Airplane: speed = 14453, distance = 38313.73503628311, range = 11767, capacity = 6732, time = 2.650919188838519
+11: Train: speed = 1068, distance = 21879.89584689775, cars = 22, time = 20.48679386413647
+12: Train: speed = 2663, distance = 6855.118430422548, cars = 4, time = 2.574208948712936
+13: Airplane: speed = 2664, distance = 42316.18135346234, range = 16398, capacity = 6561, time = 15.884452460008387
+14: Airplane: speed = 7567, distance = 14173.34874861497, range = 6598, capacity = 3978, time = 1.8730472774699312
+15: Airplane: speed = 3734, distance = 22730.258509909945, range = 7319, capacity = 1177, time = 6.087375069606305
+16: Ship: speed = 16962, distance = 48797.03244594598, displacement = 25, type = LINER, time = 2.8768442663569145
+17: Ship: speed = 24889, distance = 4518.633692325312, displacement = 825, type = TUGBOAT, time = 0.18155143606915955
+18: Ship: speed = 16398, distance = 35376.82041707047, displacement = 166, type = LINER, time = 2.157386292052108
+19: Ship: speed = 23911, distance = 44067.992711680105, displacement = 149, type = LINER, time = 1.8430008243770692
+20: Train: speed = 3387, distance = 15128.465635741763, cars = 16, time = 4.466626996085552
+21: Train: speed = 12617, distance = 22457.816492787904, cars = 14, time = 1.7799648484416188
+22: Airplane: speed = 3337, distance = 48024.50004601036, range = 21984, capacity = 7371, time = 14.39151934252633
+23: Train: speed = 24352, distance = 17590.568317097426, cars = 23, time = 0.722345939434027
+24: Train: speed = 24500, distance = 46905.14171547621, cars = 35, time = 1.9144955802235188
+25: Train: speed = 18798, distance = 3739.373672829484, cars = 35, time = 0.19892401706721374
+26: Train: speed = 6286, distance = 6273.471923366198, cars = 50, time = 0.9980069874906455
+27: Airplane: speed = 14449, distance = 31887.20698153902, range = 28616, capacity = 6847, time = 2.2068798519993784
+28: Airplane: speed = 20130, distance = 48681.49851987319, range = 2459, capacity = 5622, time = 2.418355614499413
+29: Train: speed = 18730, distance = 20254.291568366443, cars = 22, time = 1.0813823581615827
+30: Train: speed = 8454, distance = 5269.498240361926, cars = 19, time = 0.6233141992384582
+31: Train: speed = 10035, distance = 42000.54976908295, cars = 23, time = 4.185406055713298
+32: Airplane: speed = 21563, distance = 8450.173718375087, range = 12366, capacity = 9843, time = 0.3918830273327035
+33: Airplane: speed = 14743, distance = 28247.370007788722, range = 29826, capacity = 7576, time = 1.915985213849876
+34: Ship: speed = 13344, distance = 46949.77067074736, displacement = 790, type = LINER, time = 3.5184180658533695
+35: Train: speed = 12655, distance = 347.7523529287387, cars = 50, time = 0.027479443139370896
+36: Train: speed = 22846, distance = 8089.748813704549, cars = 24, time = 0.35409913392736364
+37: Airplane: speed = 9799, distance = 23079.66869598526, range = 21875, capacity = 6087, time = 2.355308571893587
+38: Ship: speed = 4830, distance = 7361.841383242812, displacement = 203, type = TANKER, time = 1.5241907625761517
+39: Ship: speed = 11578, distance = 4386.766031612167, displacement = 805, type = TANKER, time = 0.3788880662992026
+40: Airplane: speed = 11406, distance = 3214.2928135058037, range = 22151, capacity = 9312, time = 0.2818071903827638
+41: Train: speed = 8074, distance = 1697.3907946075183, cars = 21, time = 0.21022922895807758
+42: Airplane: speed = 10769, distance = 13993.852786122716, range = 6032, capacity = 1703, time = 1.2994570327906692
+43: Airplane: speed = 15560, distance = 14595.855607354157, range = 12539, capacity = 6661, time = 0.93803699276055
+44: Train: speed = 15903, distance = 9111.038238308654, cars = 12, time = 0.572913176023936
+45: Airplane: speed = 20127, distance = 14311.249180836685, range = 28502, capacity = 1117, time = 0.7110473086320209
+46: Train: speed = 21897, distance = 3201.7535005017908, cars = 7, time = 0.1462188199525867
+47: Airplane: speed = 24184, distance = 12530.68119099896, range = 23138, capacity = 3239, time = 0.518139314877562
+48: Ship: speed = 13552, distance = 9655.814068374866, displacement = 636, type = TUGBOAT, time = 0.7125010381032221
+49: Airplane: speed = 1243, distance = 47112.2984269227, range = 8187, capacity = 2873, time = 37.902090448047225
+50: Airplane: speed = 24849, distance = 5919.438706128663, range = 12945, capacity = 1214, time = 0.23821637515105892
+51: Airplane: speed = 8779, distance = 16918.999771355142, range = 15815, capacity = 5119, time = 1.927212640546206
+52: Ship: speed = 19590, distance = 37800.55167027023, displacement = 216, type = TANKER, time = 1.9295840566753564
+53: Airplane: speed = 19907, distance = 16172.773141936412, range = 7294, capacity = 6345, time = 0.8124163933257855
+54: Airplane: speed = 23260, distance = 27857.728698970695, range = 28958, capacity = 3657, time = 1.1976667540400128
+55: Train: speed = 13709, distance = 8598.252091004828, cars = 21, time = 0.6271976140495169
+56: Airplane: speed = 24674, distance = 4331.957313993733, range = 11806, capacity = 4595, time = 0.17556769530654667
+57: Train: speed = 2644, distance = 31554.59932973337, cars = 41, time = 11.93441729566315
+58: Train: speed = 2727, distance = 14595.465017096003, cars = 27, time = 5.352205726841219
+59: Airplane: speed = 19581, distance = 17970.0554626699, range = 2716, capacity = 6739, time = 0.917729199870788
+60: Train: speed = 3314, distance = 48984.14904130181, cars = 35, time = 14.780974363700004
+61: Airplane: speed = 19719, distance = 35594.85601556593, range = 1479, capacity = 8275, time = 1.8051045192740975
+62: Ship: speed = 9953, distance = 4329.309857538637, displacement = 811, type = TUGBOAT, time = 0.43497536999283
+63: Train: speed = 6078, distance = 8917.651550526934, cars = 29, time = 1.4672016371383572
+64: Train: speed = 9725, distance = 30643.447728503095, cars = 8, time = 3.150997195732966
+65: Ship: speed = 7254, distance = 20635.419507748917, displacement = 242, type = LINER, time = 2.8446952726425305
+66: Airplane: speed = 5436, distance = 35046.849394267825, range = 5875, capacity = 4518, time = 6.447176121094155
+67: Ship: speed = 18254, distance = 20169.798525259666, displacement = 158, type = LINER, time = 1.1049522584233409
+68: Train: speed = 4937, distance = 14478.194679678427, cars = 20, time = 2.932589564447727
+69: Airplane: speed = 8345, distance = 45987.865158240194, range = 10878, capacity = 3217, time = 5.51082865886641
+70: Airplane: speed = 14169, distance = 49711.61655605187, range = 7336, capacity = 5556, time = 3.5084774194404593
+71: Ship: speed = 11357, distance = 9482.865882654867, displacement = 878, type = TANKER, time = 0.8349798258919492
+72: Train: speed = 2550, distance = 10563.411511699778, cars = 15, time = 4.142514318313639
+73: Train: speed = 23902, distance = 21428.148453463822, cars = 14, time = 0.8965002281593097
+74: Airplane: speed = 15061, distance = 16287.019077445559, range = 4413, capacity = 16, time = 1.0814035640027593
+75: Airplane: speed = 1325, distance = 39312.097146436434, range = 18636, capacity = 5855, time = 29.669507280329384
+76: Ship: speed = 16994, distance = 24946.14898655953, displacement = 949, type = TUGBOAT, time = 1.467938624606304
+77: Ship: speed = 464, distance = 10272.473956161088, displacement = 678, type = TUGBOAT, time = 22.13895249172648
+78: Airplane: speed = 5509, distance = 33514.25722735345, range = 3629, capacity = 9467, time = 6.083546419922572
+79: Ship: speed = 430, distance = 16218.857693125354, displacement = 980, type = TUGBOAT, time = 37.71827370494268
+80: Ship: speed = 5126, distance = 35462.54697318311, displacement = 179, type = TANKER, time = 6.918171473504313
+81: Ship: speed = 2515, distance = 18665.93570365181, displacement = 17, type = TANKER, time = 7.421843222127956
+82: Train: speed = 4242, distance = 27394.148340495587, cars = 43, time = 6.457837892620365
+83: Train: speed = 17655, distance = 34246.18400096604, cars = 24, time = 1.939744208494253
+84: Train: speed = 20794, distance = 17646.370665167997, cars = 40, time = 0.8486280015950753
+85: Ship: speed = 21375, distance = 34754.50032848629, displacement = 160, type = TANKER, time = 1.625941535835616
+86: Ship: speed = 16958, distance = 9773.943506067495, displacement = 275, type = TUGBOAT, time = 0.5763618059952527
+87: Train: speed = 5585, distance = 27864.632137328375, cars = 13, time = 4.98919107203731
+88: Ship: speed = 5, distance = 48701.276902743535, displacement = 786, type = LINER, time = 9740.255380548708
+89: Ship: speed = 4601, distance = 15027.43131651121, displacement = 721, type = TUGBOAT, time = 3.266122868183267
+90: Airplane: speed = 5952, distance = 2655.340337091634, range = 8242, capacity = 5154, time = 0.4461257286780299
+91: Ship: speed = 4576, distance = 30.96493797342549, displacement = 284, type = LINER, time = 0.006766813368318507
+92: Airplane: speed = 17028, distance = 14604.411564408932, range = 5332, capacity = 5025, time = 0.8576703996011823
+93: Ship: speed = 24320, distance = 35249.615601868325, displacement = 261, type = TUGBOAT, time = 1.4494085362610332
+94: Train: speed = 9496, distance = 32723.744998547816, cars = 31, time = 3.44605570751346
+95: Ship: speed = 12701, distance = 11307.949119940615, displacement = 604, type = TUGBOAT, time = 0.890319590578743
+96: Airplane: speed = 7948, distance = 30524.29162602279, range = 28334, capacity = 8352, time = 3.840499701311373
+97: Airplane: speed = 22017, distance = 3676.8443874470545, range = 24085, capacity = 1208, time = 0.16700024469487462
+98: Ship: speed = 21197, distance = 31136.82165983032, displacement = 391, type = TUGBOAT, time = 1.4689258696905372
+99: Train: speed = 17519, distance = 36185.56677816381, cars = 23, time = 2.065504125701456
+100: Train: speed = 5652, distance = 12728.136327501094, cars = 11, time = 2.2519703339527766
+
+Sorted transport:
+100 transports:
+1: Ship: speed = 5, distance = 48701.276902743535, displacement = 786, type = LINER, time = 9740.255380548708
+2: Airplane: speed = 1243, distance = 47112.2984269227, range = 8187, capacity = 2873, time = 37.902090448047225
+3: Ship: speed = 430, distance = 16218.857693125354, displacement = 980, type = TUGBOAT, time = 37.71827370494268
+4: Airplane: speed = 1325, distance = 39312.097146436434, range = 18636, capacity = 5855, time = 29.669507280329384
+5: Ship: speed = 464, distance = 10272.473956161088, displacement = 678, type = TUGBOAT, time = 22.13895249172648
+6: Train: speed = 1068, distance = 21879.89584689775, cars = 22, time = 20.48679386413647
+7: Airplane: speed = 2664, distance = 42316.18135346234, range = 16398, capacity = 6561, time = 15.884452460008387
+8: Train: speed = 3314, distance = 48984.14904130181, cars = 35, time = 14.780974363700004
+9: Airplane: speed = 3337, distance = 48024.50004601036, range = 21984, capacity = 7371, time = 14.39151934252633
+10: Airplane: speed = 2628, distance = 36734.69564737096, range = 1730, capacity = 8264, time = 13.978194690780425
+11: Train: speed = 2644, distance = 31554.59932973337, cars = 41, time = 11.93441729566315
+12: Train: speed = 1877, distance = 18594.879231498602, cars = 28, time = 9.906701774906022
+13: Ship: speed = 2515, distance = 18665.93570365181, displacement = 17, type = TANKER, time = 7.421843222127956
+14: Ship: speed = 5126, distance = 35462.54697318311, displacement = 179, type = TANKER, time = 6.918171473504313
+15: Train: speed = 4242, distance = 27394.148340495587, cars = 43, time = 6.457837892620365
+16: Airplane: speed = 5436, distance = 35046.849394267825, range = 5875, capacity = 4518, time = 6.447176121094155
+17: Airplane: speed = 3734, distance = 22730.258509909945, range = 7319, capacity = 1177, time = 6.087375069606305
+18: Airplane: speed = 5509, distance = 33514.25722735345, range = 3629, capacity = 9467, time = 6.083546419922572
+19: Airplane: speed = 8345, distance = 45987.865158240194, range = 10878, capacity = 3217, time = 5.51082865886641
+20: Train: speed = 2727, distance = 14595.465017096003, cars = 27, time = 5.352205726841219
+21: Train: speed = 5585, distance = 27864.632137328375, cars = 13, time = 4.98919107203731
+22: Train: speed = 3387, distance = 15128.465635741763, cars = 16, time = 4.466626996085552
+23: Train: speed = 10035, distance = 42000.54976908295, cars = 23, time = 4.185406055713298
+24: Train: speed = 2550, distance = 10563.411511699778, cars = 15, time = 4.142514318313639
+25: Airplane: speed = 7948, distance = 30524.29162602279, range = 28334, capacity = 8352, time = 3.840499701311373
+26: Ship: speed = 13344, distance = 46949.77067074736, displacement = 790, type = LINER, time = 3.5184180658533695
+27: Airplane: speed = 14169, distance = 49711.61655605187, range = 7336, capacity = 5556, time = 3.5084774194404593
+28: Train: speed = 9496, distance = 32723.744998547816, cars = 31, time = 3.44605570751346
+29: Ship: speed = 4601, distance = 15027.43131651121, displacement = 721, type = TUGBOAT, time = 3.266122868183267
+30: Train: speed = 9725, distance = 30643.447728503095, cars = 8, time = 3.150997195732966
+31: Train: speed = 4937, distance = 14478.194679678427, cars = 20, time = 2.932589564447727
+32: Ship: speed = 16962, distance = 48797.03244594598, displacement = 25, type = LINER, time = 2.8768442663569145
+33: Ship: speed = 7254, distance = 20635.419507748917, displacement = 242, type = LINER, time = 2.8446952726425305
+34: Airplane: speed = 14453, distance = 38313.73503628311, range = 11767, capacity = 6732, time = 2.650919188838519
+35: Train: speed = 2663, distance = 6855.118430422548, cars = 4, time = 2.574208948712936
+36: Airplane: speed = 20130, distance = 48681.49851987319, range = 2459, capacity = 5622, time = 2.418355614499413
+37: Airplane: speed = 9799, distance = 23079.66869598526, range = 21875, capacity = 6087, time = 2.355308571893587
+38: Train: speed = 5652, distance = 12728.136327501094, cars = 11, time = 2.2519703339527766
+39: Airplane: speed = 14449, distance = 31887.20698153902, range = 28616, capacity = 6847, time = 2.2068798519993784
+40: Ship: speed = 16398, distance = 35376.82041707047, displacement = 166, type = LINER, time = 2.157386292052108
+41: Train: speed = 10204, distance = 21904.0066293978, cars = 44, time = 2.146609822559565
+42: Train: speed = 17519, distance = 36185.56677816381, cars = 23, time = 2.065504125701456
+43: Train: speed = 17655, distance = 34246.18400096604, cars = 24, time = 1.939744208494253
+44: Ship: speed = 19590, distance = 37800.55167027023, displacement = 216, type = TANKER, time = 1.9295840566753564
+45: Airplane: speed = 8779, distance = 16918.999771355142, range = 15815, capacity = 5119, time = 1.927212640546206
+46: Airplane: speed = 14743, distance = 28247.370007788722, range = 29826, capacity = 7576, time = 1.915985213849876
+47: Train: speed = 24500, distance = 46905.14171547621, cars = 35, time = 1.9144955802235188
+48: Airplane: speed = 7567, distance = 14173.34874861497, range = 6598, capacity = 3978, time = 1.8730472774699312
+49: Ship: speed = 23911, distance = 44067.992711680105, displacement = 149, type = LINER, time = 1.8430008243770692
+50: Airplane: speed = 19719, distance = 35594.85601556593, range = 1479, capacity = 8275, time = 1.8051045192740975
+51: Train: speed = 12617, distance = 22457.816492787904, cars = 14, time = 1.7799648484416188
+52: Airplane: speed = 24153, distance = 42212.5123827963, range = 12046, capacity = 2101, time = 1.7477130121639675
+53: Ship: speed = 21375, distance = 34754.50032848629, displacement = 160, type = TANKER, time = 1.625941535835616
+54: Ship: speed = 4830, distance = 7361.841383242812, displacement = 203, type = TANKER, time = 1.5241907625761517
+55: Ship: speed = 21197, distance = 31136.82165983032, displacement = 391, type = TUGBOAT, time = 1.4689258696905372
+56: Ship: speed = 16994, distance = 24946.14898655953, displacement = 949, type = TUGBOAT, time = 1.467938624606304
+57: Train: speed = 6078, distance = 8917.651550526934, cars = 29, time = 1.4672016371383572
+58: Ship: speed = 24320, distance = 35249.615601868325, displacement = 261, type = TUGBOAT, time = 1.4494085362610332
+59: Airplane: speed = 10769, distance = 13993.852786122716, range = 6032, capacity = 1703, time = 1.2994570327906692
+60: Airplane: speed = 23260, distance = 27857.728698970695, range = 28958, capacity = 3657, time = 1.1976667540400128
+61: Ship: speed = 18254, distance = 20169.798525259666, displacement = 158, type = LINER, time = 1.1049522584233409
+62: Airplane: speed = 15061, distance = 16287.019077445559, range = 4413, capacity = 16, time = 1.0814035640027593
+63: Train: speed = 18730, distance = 20254.291568366443, cars = 22, time = 1.0813823581615827
+64: Train: speed = 6286, distance = 6273.471923366198, cars = 50, time = 0.9980069874906455
+65: Airplane: speed = 15560, distance = 14595.855607354157, range = 12539, capacity = 6661, time = 0.93803699276055
+66: Ship: speed = 13503, distance = 12506.69860357039, displacement = 854, type = TUGBOAT, time = 0.9262162929401163
+67: Airplane: speed = 19581, distance = 17970.0554626699, range = 2716, capacity = 6739, time = 0.917729199870788
+68: Train: speed = 23902, distance = 21428.148453463822, cars = 14, time = 0.8965002281593097
+69: Ship: speed = 12701, distance = 11307.949119940615, displacement = 604, type = TUGBOAT, time = 0.890319590578743
+70: Airplane: speed = 17028, distance = 14604.411564408932, range = 5332, capacity = 5025, time = 0.8576703996011823
+71: Train: speed = 20794, distance = 17646.370665167997, cars = 40, time = 0.8486280015950753
+72: Ship: speed = 11357, distance = 9482.865882654867, displacement = 878, type = TANKER, time = 0.8349798258919492
+73: Airplane: speed = 19907, distance = 16172.773141936412, range = 7294, capacity = 6345, time = 0.8124163933257855
+74: Train: speed = 24352, distance = 17590.568317097426, cars = 23, time = 0.722345939434027
+75: Ship: speed = 13552, distance = 9655.814068374866, displacement = 636, type = TUGBOAT, time = 0.7125010381032221
+76: Airplane: speed = 20127, distance = 14311.249180836685, range = 28502, capacity = 1117, time = 0.7110473086320209
+77: Train: speed = 13709, distance = 8598.252091004828, cars = 21, time = 0.6271976140495169
+78: Train: speed = 8454, distance = 5269.498240361926, cars = 19, time = 0.6233141992384582
+79: Ship: speed = 5438, distance = 3284.430455101771, displacement = 794, type = TANKER, time = 0.6039776489705353
+80: Train: speed = 16687, distance = 9978.506084615949, cars = 4, time = 0.5979808284662281
+81: Ship: speed = 16958, distance = 9773.943506067495, displacement = 275, type = TUGBOAT, time = 0.5763618059952527
+82: Train: speed = 15903, distance = 9111.038238308654, cars = 12, time = 0.572913176023936
+83: Train: speed = 10689, distance = 5547.269877307081, cars = 16, time = 0.5189699576487118
+84: Airplane: speed = 24184, distance = 12530.68119099896, range = 23138, capacity = 3239, time = 0.518139314877562
+85: Airplane: speed = 5952, distance = 2655.340337091634, range = 8242, capacity = 5154, time = 0.4461257286780299
+86: Ship: speed = 9953, distance = 4329.309857538637, displacement = 811, type = TUGBOAT, time = 0.43497536999283
+87: Airplane: speed = 21563, distance = 8450.173718375087, range = 12366, capacity = 9843, time = 0.3918830273327035
+88: Ship: speed = 11578, distance = 4386.766031612167, displacement = 805, type = TANKER, time = 0.3788880662992026
+89: Train: speed = 22846, distance = 8089.748813704549, cars = 24, time = 0.35409913392736364
+90: Airplane: speed = 5837, distance = 1681.5468338686824, range = 27222, capacity = 6336, time = 0.2880840900922875
+91: Airplane: speed = 11406, distance = 3214.2928135058037, range = 22151, capacity = 9312, time = 0.2818071903827638
+92: Airplane: speed = 24849, distance = 5919.438706128663, range = 12945, capacity = 1214, time = 0.23821637515105892
+93: Train: speed = 8074, distance = 1697.3907946075183, cars = 21, time = 0.21022922895807758
+94: Train: speed = 18798, distance = 3739.373672829484, cars = 35, time = 0.19892401706721374
+95: Ship: speed = 24889, distance = 4518.633692325312, displacement = 825, type = TUGBOAT, time = 0.18155143606915955
+96: Airplane: speed = 24674, distance = 4331.957313993733, range = 11806, capacity = 4595, time = 0.17556769530654667
+97: Airplane: speed = 22017, distance = 3676.8443874470545, range = 24085, capacity = 1208, time = 0.16700024469487462
+98: Train: speed = 21897, distance = 3201.7535005017908, cars = 7, time = 0.1462188199525867
+99: Train: speed = 12655, distance = 347.7523529287387, cars = 50, time = 0.027479443139370896
+100: Ship: speed = 4576, distance = 30.96493797342549, displacement = 284, type = LINER, time = 0.006766813368318507

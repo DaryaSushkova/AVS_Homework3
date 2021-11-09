@@ -1,0 +1,24 @@
+10 transports:
+1: Ship: speed = 1234, distance = 5656.56, displacement = 123, type = TANKER, time = 4.5839222042139385
+2: Train: speed = 540, distance = 7004.98, cars = 14, time = 12.972185185185184
+3: Airplane: speed = 12000, distance = 24000.24, range = 11200, capacity = 5600, time = 2.00002
+4: Train: speed = 320, distance = 798.0, cars = 13, time = 2.49375
+5: Train: speed = 240, distance = 670.89, cars = 8, time = 2.795375
+6: Ship: speed = 567, distance = 8000.0, displacement = 130, type = TUGBOAT, time = 14.109347442680775
+7: Ship: speed = 670, distance = 5467.8, displacement = 123, type = TANKER, time = 8.16089552238806
+8: Airplane: speed = 14000, distance = 23000.8, range = 12000, capacity = 1500, time = 1.6429142857142858
+9: Train: speed = 390, distance = 654.23, cars = 4, time = 1.6775128205128205
+10: Ship: speed = 567, distance = 7890.0, displacement = 134, type = TUGBOAT, time = 13.915343915343914
+
+Sorted transport:
+10 transports:
+1: Ship: speed = 567, distance = 8000.0, displacement = 130, type = TUGBOAT, time = 14.109347442680775
+2: Ship: speed = 567, distance = 7890.0, displacement = 134, type = TUGBOAT, time = 13.915343915343914
+3: Train: speed = 540, distance = 7004.98, cars = 14, time = 12.972185185185184
+4: Ship: speed = 670, distance = 5467.8, displacement = 123, type = TANKER, time = 8.16089552238806
+5: Ship: speed = 1234, distance = 5656.56, displacement = 123, type = TANKER, time = 4.5839222042139385
+6: Train: speed = 240, distance = 670.89, cars = 8, time = 2.795375
+7: Train: speed = 320, distance = 798.0, cars = 13, time = 2.49375
+8: Airplane: speed = 12000, distance = 24000.24, range = 11200, capacity = 5600, time = 2.00002
+9: Train: speed = 390, distance = 654.23, cars = 4, time = 1.6775128205128205
+10: Airplane: speed = 14000, distance = 23000.8, range = 12000, capacity = 1500, time = 1.6429142857142858

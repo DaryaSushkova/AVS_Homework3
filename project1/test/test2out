@@ -1,0 +1,8 @@
+2 transports:
+1: Airplane: speed = 11, distance = 11.0, range = 12, capacity = 34, time = 1.0
+2: Train: speed = 45, distance = 899.0, cars = 34, time = 19.977777777777778
+
+Sorted transport:
+2 transports:
+1: Train: speed = 45, distance = 899.0, cars = 34, time = 19.977777777777778
+2: Airplane: speed = 11, distance = 11.0, range = 12, capacity = 34, time = 1.0

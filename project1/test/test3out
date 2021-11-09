@@ -1,0 +1,12 @@
+4 transports:
+1: Ship: speed = 150, distance = 10000, displacement = 150, type = TANKER, time = 66.66666666666667
+2: Train: speed = 123, distance = 456, cars = 11, time = 3.707317073170732
+3: Airplane: speed = 10000, distance = 20000, range = 500, capacity = 700, time = 2.0
+4: Ship: speed = 560, distance = 7000, displacement = 138, type = TUGBOAT, time = 12.5
+
+Sorted transport:
+4 transports:
+1: Ship: speed = 150, distance = 10000, displacement = 150, type = TANKER, time = 66.66666666666667
+2: Ship: speed = 560, distance = 7000, displacement = 138, type = TUGBOAT, time = 12.5
+3: Train: speed = 123, distance = 456, cars = 11, time = 3.707317073170732
+4: Airplane: speed = 10000, distance = 20000, range = 500, capacity = 700, time = 2.0
